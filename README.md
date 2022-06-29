@@ -8,7 +8,7 @@ Data used for this analysis was provided by Kickstarter and contained 4113 Proje
 The first analysis filtered the data to include only those projects categorized as Theater resulting in a total of 1369 total projects.  Data analysis included creating pivot tables by examining the outcomes in relation to the  month of the year the campaign was launched. The pivot table is visually represented in the line graph.
 
 
-![Theater_Outcomes_vs_Launch](path/to/image_name.png)
+![Theater_Outcomes_vs_Launch] (https://github.com/profweston/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png))
 
 
 
