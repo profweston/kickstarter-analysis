@@ -5,10 +5,10 @@ Famous playwright, Louise, is ready to release her latest creation, *Fever*, wit
 ## Analysis and Challenges
 Data used for this analysis was provided by Kickstarter and contained 4113 Projects along with their launch date, desired goal of funding, amount pledged to the campaign, and the outcome of the campaign. The outcomes were categorized as successful, failed, or canceled. A successful campaign was defined as the total pledged contributions met or exceeded the desired goal. A failed campaign was defined as pledged contributions not meeting the desired goal. Canceled campaigns are those that did not continue gathering contributions until the established deadline. 
 
-The first analysis filtered the data to include only those projects categorized as Theater resulting in a total of 1369 total projects.  Data analysis included creating pivot tables by examining the outcomes in relation to the what month of the year the campaign was launched. The pivot table is visually represented in the line graph.
+The first analysis filtered the data to include only those projects categorized as Theater resulting in a total of 1369 total projects.  Data analysis included creating pivot tables by examining the outcomes in relation to the  month of the year the campaign was launched. The pivot table is visually represented in the line graph.
 
 
-<insert image>
+![Theater_Outcomes_vs_Launch](path/to/image_name.png)
 
 
 
